@@ -221,7 +221,7 @@ class _TranslationsMainScreenDe implements _TranslationsMainScreenEn {
 
 extension on _TranslationsEn {
 	Map<String, dynamic> _buildFlatMap() {
-		return {
+		return <String, dynamic>{
 			'mainScreen.title': 'Title',
 			'mainScreen.content': 'Content',
 			'mainScreen.anotherContent': 'Another Content',
@@ -233,7 +233,7 @@ extension on _TranslationsEn {
 
 extension on _TranslationsDe {
 	Map<String, dynamic> _buildFlatMap() {
-		return {
+		return <String, dynamic>{
 			'mainScreen.title': 'Titel',
 			'mainScreen.content': 'Inhalt',
 			'mainScreen.anotherContent': 'Anderer Inhalt',

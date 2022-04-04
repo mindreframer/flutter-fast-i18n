@@ -3,7 +3,7 @@
  * Generated file. Do not edit.
  *
  * Locales: 1
- * Strings: 2 
+ * Strings: 2
  */
 
 import 'package:flutter/widgets.dart';
@@ -327,7 +327,7 @@ class _TranslationsBEn {
 
 extension on _TranslationsEn {
 	Map<String, dynamic> _buildFlatMap() {
-		return {
+		return <String, dynamic>{
 			'a': 'a',
 			'b.bb': 'bb',
 		};
